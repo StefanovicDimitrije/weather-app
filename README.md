@@ -14,7 +14,7 @@ Install the dependencies using [Composer](http://getcomposer.org/)
 
     composer install
 
-You are also going to require your own .env file
+You are also going to require your own .env file. Consider that an app key for OpenWeather API is required since it is utilised in this app
 
 Run the database migrations
 
